@@ -1,6 +1,6 @@
 <?php
 
-namespace Alanazeredoguedes\ComposerTest;
+namespace Alanazeredoguedes\CrmIntegration;
 
 class Anapro
 {

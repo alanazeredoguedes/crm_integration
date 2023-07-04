@@ -1,7 +1,7 @@
 <?php
 
 
-use Alanazeredoguedes\ComposerTest\Anapro;
+use Alanazeredoguedes\CrmIntegration\Anapro;
 
 
 test('example', function () {

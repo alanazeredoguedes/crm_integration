@@ -1,11 +1,11 @@
 {
-    "name": "alanazeredoguedes/composer-test",
-    "description": "Um projeto teste do composer",
+    "name": "alanazeredoguedes/crm-integration",
+    "description": "Package Integrations CRMs",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Alanazeredoguedes\\ComposerTest\\": "src/"
+            "Alanazeredoguedes\\CrmIntegration\\": "src/"
         }
     },
     "authors": [
