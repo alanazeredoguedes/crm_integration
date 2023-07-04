@@ -1,0 +1,25 @@
+{
+    "name": "alanazeredoguedes/composer-test",
+    "description": "Um projeto teste do composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alanazeredoguedes\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlanGuedes",
+            "email": "alanguedes00@live.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^2.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
